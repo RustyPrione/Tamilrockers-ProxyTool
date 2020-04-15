@@ -14,7 +14,7 @@ check python is installed on your Machine
 2.Open PowerShell by simpliy typing powershell in start button
 3.Type pip install selenium and hit enter
 
-pip install selenium 
+'''pip install selenium'''
 
 4.After install seleium Run Connect TamilRockers 
 
