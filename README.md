@@ -1,8 +1,8 @@
 # Tamilrockers-ProxyTool
-TamilRockers ProxyTool is use to provide direct access to tamilrockers without VPN
-A Powerfull Python Script
-Robust and Speedy
-Up 2 Date
+TamilRockers ProxyTool is use to provide direct access to tamilrockers without VPN.
+- A Powerfull Python Script
+- Robust and Speedy
+- Up 2 Date
 # Caution: I'm not a part of TamilRockers. This is My Quarantine project and it is for Enjoyment and Educational Purpose.
 
 # Installation Guide:
