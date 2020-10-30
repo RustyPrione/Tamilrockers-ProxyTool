@@ -6,7 +6,7 @@ TamilRockers ProxyTool is use to provide direct access to tamilrockers without V
 # Caution: I'm not a part of TamilRockers. This is My Quarantine project and it is for Enjoyment and Educational Purpose.
 
 # Installation Guide:
-# For Windows 10 64-bit:
+# For Windows 10 64-bit 💙 :
 
 check python is installed on your Machine
 1. Run Tamilrockers Installer
@@ -17,7 +17,7 @@ check python is installed on your Machine
 
 4. After install selenium Run Connect TamilRockers 
 
-# For Linux:
+# For Linux 🖤 :
 
 1. Install python3 on linux
 2. Run installer.py 
@@ -28,6 +28,8 @@ check python is installed on your Machine
 
 ```python Tamilrockers.py```
 
+# For Android 💚 :
+Download and Install APK file.
 
 Note If you not get connection of tamilrockers tryagain after sometime.
 If you got error in this program plz ping me through webiste or reach me in google by searching [Rustyprione](https://www.google.com/search?q=rustyprione).
